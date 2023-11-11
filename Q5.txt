@@ -1,0 +1,11 @@
+The DOCTYPE declaration in HTML (Document Type Declaration) is used to specify the version of HTML or XHTML that a web page is using. It is an essential part of an HTML document, and its purpose is to inform the browser about the type and version of the HTML or XHTML standard that the document adheres to. This declaration helps the browser to render the web page correctly.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- The rest of the HTML document goes here -->
+</head>
+<body>
+    <!-- Body content goes here -->
+</body>
+</html>
